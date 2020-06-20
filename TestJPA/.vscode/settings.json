@@ -1,0 +1,21 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "typescript.tsdk": "",
+  "scenebuilder.home": "C:\\Program Files\\SceneBuilder",
+  "java.completion.importOrder": [
+    "eclipse",
+    "java",
+    "javafx",
+    "xml",
+    "fxml",
+    "javax",
+    "com",
+    "org"
+  ],
+  "html.format.contentUnformatted": "",
+  "[yaml]": {
+  },
+  "launch": {
+  },
+  "java.format.settings.profile": ""
+}
